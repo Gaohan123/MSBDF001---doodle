@@ -37,8 +37,13 @@ Other helpful and useful references and links.
 MSBD5001 Project Proposal
 
 1. Introduction
+
 2. Methods and Procedures
-  2.1 Doodle recognition
-  2.2 Data cleaning
-  2.3 Training data (CNN, Ensemble Learning)
-  2.4 Cross validation (Adjust parameters)
+
+    2.1 Doodle recognition
+    
+    2.2 Data cleaning
+    
+    2.3 Training data (CNN, Ensemble Learning)
+    
+    2.4 Cross validation (Adjust parameters)
